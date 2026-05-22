@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Exploring+WebXR+%26+Spatial+Computing;Building+intelligent+systems..." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkkk2058&count_bg=%23793895&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
-</p>
-
 ---
 
 # Hi there, I'm Sehoon Kim! 👋
