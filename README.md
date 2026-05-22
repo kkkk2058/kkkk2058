@@ -1,7 +1,7 @@
 # Hi there, I'm Sehoon Kim! 👋
 **AI Engineer & Researcher** 
 
-공간 컴퓨팅(Spatial Computing)과 인공지능 기술을 융합하여 대규모 인터랙티브 웹 애플리케이션 및 멀티모달 시스템을 개발하는 엔지니어입니다. 데이터의 가치를 인간의 경험으로 확장하는 기술에 관심이 많습니다.
+공간 컴퓨팅과 인공지능 기술을 융합하여 대규모 인터랙티브 웹 애플리케이션 및 멀티모달 시스템을 개발하는 엔지니어입니다. 데이터의 가치를 인간의 경험으로 확장하는 기술에 관심이 많습니다.
 
 ---
 
@@ -19,18 +19,14 @@
 <p>
   <img src="https://img.shields.io/badge/WebXR-FF4A5A?style=flat-square&logo=WebXR&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend & DevOps
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </p>
 
 ---
