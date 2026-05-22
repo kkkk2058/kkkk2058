@@ -1,13 +1,3 @@
-<!-- 상단 그라데이션 파도 배너 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Welcome%20to%20Sehoon's%20Workspace&animation=fadeIn&fontColor=ffffff&fontSize=38)
-
-<!-- 실시간 타이핑 애니메이션 및 방문자 카운터 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Exploring+WebXR+%26+Spatial+Computing;Building+intelligent+systems..." alt="Typing SVG" />
-</p>
-
----
-
 # Hi there, I'm Sehoon Kim! 👋
 **AI Engineer & Researcher** 
 
