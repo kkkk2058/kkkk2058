@@ -12,17 +12,10 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 👋 안녕하세요! 공간 컴퓨팅(Spatial Computing)과 인공지능 기술을 융합하여 대규모 인터랙티브 웹 애플리케이션 및 멀티모달 시스템을 개발하는 엔지니어 **김세훈**입니다.
-- 🚀 데이터의 가치를 인간의 경험으로 확장하는 1인칭 멀티모달 데이터 처리 및 3D 장면 복원 연구에 관심이 많습니다.
-- 🛠️ 실무 중심의 탄탄한 백엔드 인프라와 프론트엔드 시각화 파이프라인을 유기적으로 구축하는 것을 즐깁니다.
+# Hi there, I'm Sehoon Kim! 👋
+**AI Engineer & Researcher** 
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kkkk2058&theme=radical&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
+공간 컴퓨팅(Spatial Computing)과 인공지능 기술을 융합하여 대규모 인터랙티브 웹 애플리케이션 및 멀티모달 시스템을 개발하는 엔지니어입니다. 데이터의 가치를 인간의 경험으로 확장하는 기술에 관심이 많습니다.
 
 ---
 
@@ -77,31 +70,21 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkkk2058&show_icons=true&theme=radical&include_all_commits=true" alt="Sehoon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkkk2058&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical&include_all_commits=true" alt="Sehoon's GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkkk2058&theme=radical" alt="GitHub Streak" width="97%" />
-</p>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kkkk2058&theme=react-dark" alt="Activity Graph" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
 ## ✉️ Contact & More
 
-* **Email**: sehonn.dev.kim@gmail.com
-* **LinkedIn**: [linkedin.com/in/sehoon-kim](https://linkedin.com)
-* **Hobbies**: 🏸 Badminton | 🏀 Basketball | 🎮 League of Legends (Big Fan of **T1**! 👑)
+* **Email**: sehoㅐn.dev.kim@gmail.com
+* **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com)
+* **Hobbies**: 🏸 Badminton | 🏀 Basketball | 🎮 League of Legends (Big Fan of T1!)
 
-> "The best way to predict the future is to invent it."
-
----
-<p align="center">⚙️ Driven by sehoonkim's MacBook Pro Workspace ⚙️</p>
+"The best way to predict the future is to invent it."
